@@ -43,6 +43,8 @@ These features are combined and processed to form a meaningful representation of
 4. Enter the name of a movie when prompted.
 5. Get a list of 5 recommended movies based on their similarity to the entered movie.
 
+## Explore the App Here: https://huggingface.co/spaces/shadia112/movie-recommender-app
+
 ## Future Enhancements
 - Include more advanced NLP techniques for better feature extraction.
 - Use different similarity measures for comparison.
